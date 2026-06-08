@@ -1,0 +1,13 @@
+2026-06-08 18:18:40,181 - INFO - Job Started
+2026-06-08 18:19:51,704 - INFO - Job Started
+2026-06-08 18:19:51,729 - INFO - Config Loaded
+2026-06-08 18:19:51,781 - INFO - Rows Loaded: 10000
+2026-06-08 18:19:51,785 - INFO - Rolling Mean Computed
+2026-06-08 18:19:51,787 - INFO - Signals Generated
+2026-06-08 18:19:51,790 - INFO - Job Completed Successfully
+2026-06-08 19:04:36,495 - INFO - Job Started
+2026-06-08 19:04:36,516 - INFO - Config Loaded
+2026-06-08 19:04:36,619 - INFO - Rows Loaded: 10000
+2026-06-08 19:04:36,623 - INFO - Rolling Mean Computed
+2026-06-08 19:04:36,628 - INFO - Signals Generated
+2026-06-08 19:04:36,631 - INFO - Job Completed Successfully
